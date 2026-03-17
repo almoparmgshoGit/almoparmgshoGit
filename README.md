@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/coderx12/coderx12/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
